@@ -1,6 +1,6 @@
-# Xiaozhi Medical AI
+# Medical AI
 
-Xiaozhi Medical AI is a Spring Boot backend for a hospital-style AI assistant. It provides streamed, multi-turn conversations for general health guidance, department navigation, and appointment workflows.
+Medical AI is a Spring Boot backend for a hospital-style AI assistant. It provides streamed, multi-turn conversations for general health guidance, department navigation, and appointment workflows.
 
 The application uses LangChain4j with DashScope/Qwen models, MongoDB chat memory, Pinecone retrieval-augmented generation (RAG), and MySQL-backed appointment records.
 
